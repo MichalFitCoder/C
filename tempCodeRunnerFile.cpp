@@ -1,0 +1,1 @@
+ // printf("%f ",tab[i + j * m]);
